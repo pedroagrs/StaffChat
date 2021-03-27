@@ -26,9 +26,6 @@ public final class GlobalStaffChat extends Plugin {
 
         /* init command */
 
-
-        final StaffChatCommand staffChatCommand = new StaffChatCommand(null, null, null);
-
         new StaffChatCommand("staffchat", this, config.getString("staffchat-format"));
     }
 
