@@ -1,0 +1,5 @@
+name: GlobalStaffChat
+version: ${project.version}
+main: me.pedro.aguiar.staffchat.main.GlobalStaffChat
+description: Global staff chat (Bungee)
+author: iHuck
